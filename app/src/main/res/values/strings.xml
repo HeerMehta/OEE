@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculateOEE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">What is OEE?</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="whatisoee">Overall Equipment Effictiveness is basically used for calculating manufacturing
+        productivity. It basically tells us about the manufacturing time that was actually productive.\n
+        But here we use Overall Equipment Effectiveness as a tool for determining personal productivity. So, this
+        application is for analysing your overall productivity and effective time utilization using the powerful OEE
+        technique.
+    </string>
+    <string name="calculate">"Calculate OEE"</string>
+    <string name="av">"Availability</string>
+    <string name="pf">Performance</string>
+    <string name="qv">Quality</string>
+</resources>
